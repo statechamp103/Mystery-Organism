@@ -1,5 +1,4 @@
 # Mystery-Organism
-My solution to Codecademy project "Mystery Organism"
 
 <h2>Challenge Project: Mysterious Organism</h2>
 <h3>Overview</h3>
